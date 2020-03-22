@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/franbach/oh-my-deepin-miramare/master/screen/logo.png" alt="Miramare Deeping Theme"/>
 </p>
 
-> Miramare Theme for Linux Deeping Terminal + Oh My Zsh theme.
+> Miramare Theme for Linux Deepin Terminal + Oh My Zsh theme.
 
 ![miramare](https://raw.githubusercontent.com/franbach/oh-my-deepin-miramare/master/screen/img_1.png)
 
@@ -25,15 +25,13 @@
 To get the exact same look as in the screenshot: 
 
 > Make sure you are using Deepin Terminal
-> :link: https://www.deepin.org/en/original/deepin-terminal/
+> - :link: https://www.deepin.org/en/original/deepin-terminal/
 
-> Using patched font JetBrains Mono Medium ( Nerd Fonts )
-> :link: https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono
+> Using JetBrains Mono Medium patched font ( Nerd Fonts )
+> - :link: https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono
 
 > And of course using ZSH with OH MY ZSH as your shell
->
-> Instructions on How to install Zsh and Oh My Zsh
-:link: https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
+> - :link: https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 
 ## License
 
